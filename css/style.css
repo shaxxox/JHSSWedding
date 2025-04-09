@@ -20,6 +20,7 @@ body {
   background: #fff;
 }
 
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -60,7 +61,7 @@ a:hover, a:active, a:focus {
 }
 
 p {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
